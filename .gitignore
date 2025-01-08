@@ -58,9 +58,6 @@ coverage.xml
 # files
 .env
 1.txt
-chatbot.py
-rag_chain.py
-prompts.py
 
 # folders
 chroma_db/
